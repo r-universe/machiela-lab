@@ -1,0 +1,10 @@
+[
+  {
+    "package": "PCAmatchR",
+    "oncran": true
+  },
+  {
+    "package": "sparrpowR",
+    "oncran": true
+  }
+]

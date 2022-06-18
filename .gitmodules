@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PCAmatchR"]
+	path = PCAmatchR
+	url = https://github.com/machiela-lab/pcamatchr
+	shallow = true
+	registered = true
+[submodule "sparrpowR"]
+	path = sparrpowR
+	url = https://github.com/machiela-lab/sparrpowr
+	shallow = true
+	registered = true
